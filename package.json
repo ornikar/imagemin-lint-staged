@@ -58,6 +58,7 @@
     ]
   },
   "dependencies": {
+    "cosmiconfig": "^5.2.1",
     "imagemin-gifsicle": "^6.0.1",
     "imagemin-jpegtran": "^6.0.0",
     "imagemin-optipng": "^6.0.0",
